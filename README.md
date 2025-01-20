@@ -5,7 +5,7 @@
 
 We built **Join Me** with our own experiences in mind: tackling the everyday challenges of organizing events. The best part? It works on both **Android** and **iOS** thanks to **Expo** 📱💻.
 
-![Join Me](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Fbilboard.jpeg?alt=media&token=42c17c6b-616b-4011-925a-6569aa6fcb56)
+![Join Me](https://raw.githubusercontent.com/Vaquera26/Join-Me/48ec47aadd35931487cd45b6d3d3c718e594339c/JoinMe%20Logo.svg)
 
 
 ---
