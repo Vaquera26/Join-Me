@@ -18,37 +18,37 @@ We built **Join Me** with our own experiences in mind: tackling the everyday cha
 With **Join Me**, you can create any type of event with just a few clicks! Choose the **name**, **description**, **dates**, and **location** 🗺️. We've integrated **Google Maps API** to help you select the perfect spot for your event!
 
 ### 2. **Join an Event 💬**
-![Join Event](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Funirseyevento.png?alt=media&token=09b7375d-e1d2-4432-a070-ce741cace136)
+![Join Event](https://github.com/Vaquera26/Join-Me/blob/main/unirseaevento.png?raw=true)
 
 Joining an event has never been easier! No more spammy WhatsApp groups 🚫. Simply enter the **event code** to RSVP and you're in! It's quick, simple, and organized 🔑.
 
 ### 3. **Track Attendance 📊**
-![Attendance](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Fasistencia.png?alt=media&token=c012b43d-5da3-4be3-b228-c971215cd3d2)
+![Attendance](https://github.com/Vaquera26/Join-Me/blob/main/asistencia.png?raw=true)
 
 Managing attendees can be tricky, but **Join Me** makes it easy 🧐. Keep track of who's confirmed, who's still deciding, and who’s already at the event 📍. With **real-time updates**, you’ll never lose track of your guest list!
 
 ### 4. **Vote on Locations 📍**
-![Location](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Fubicacion.png?alt=media&token=ffaf3243-58cb-4064-bff8-5e24a58ecb67)
+![Location](https://github.com/Vaquera26/Join-Me/blob/main/ubicacion.png?raw=true)
 
 No more arguments about where to go! 🙅‍♀️🙅‍♂️ Let your friends suggest locations and vote for their favorites! 🗳️ We’ve integrated **Google Maps** for smooth location searching and automatic address completion 📍.
 
 ### 5. **Share Photos 📸**
-![Gallery](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Fgaleria.png?alt=media&token=5ec5cee7-c3f6-453d-a607-f6aa24832221)
+![Gallery](https://github.com/Vaquera26/Join-Me/blob/main/galeria.png?raw=true)
 
 After your event, it’s time to relive the memories! With **Join Me**, you can **easily upload, share, and store photos** from the event 📸. Everything stays organized in one place and is accessible to everyone 🎉.
 
 ### 6. **Manage Event Supplies 🛍️**
-![Carrito](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Fcarrito.png?alt=media&token=2f9351ec-437c-4fa9-b368-bd549a74cc83)
+![Carrito](https://github.com/Vaquera26/Join-Me/blob/main/carrito.png?raw=true)
 
 What’s everyone bringing to the event? Use the **shopping list** feature to make sure nothing is left behind 🙌. Each participant can see and choose what they’re responsible for 🛍️, eliminating confusion.
 
 ### 7. **Organize Payments 💸**
-![Payments](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Fpagospng.png?alt=media&token=d63917e0-038c-4f4f-90cd-39f69b6b7d48)
+![Payments](https://github.com/Vaquera26/Join-Me/blob/main/pagospng.png?raw=true)
 
 Paying for a group event can get messy 😖. With **Join Me**, you can track and manage **shared payments** easily 💵. The app splits the total cost among participants and helps track who has paid and who hasn’t, making sure everyone contributes fairly 🙌.
 
 ### 8. **Send Notices 📢**
-![Notices](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Favisos.png?alt=media&token=fba455c1-3452-4eb3-83ed-624e74871308)
+![Notices](https://github.com/Vaquera26/Join-Me/blob/main/avisos.png?raw=true)
 
 No more important messages getting lost in the chaos of WhatsApp groups! 💬 **Join Me** offers a dedicated section for notices 📢 where the host can send out important updates and everyone will see them clearly, without distractions 🧠.
 
