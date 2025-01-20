@@ -13,7 +13,7 @@ We built **Join Me** with our own experiences in mind: tackling the everyday cha
 ## 🧑‍🎓 **What Can You Do with Join Me?**
 
 ### 1. **Create Events 📅**
-![Create Event](inicio.png)
+![Create Event](https://github.com/Vaquera26/Join-Me/blob/main/Inicio.png?raw=true)
 
 With **Join Me**, you can create any type of event with just a few clicks! Choose the **name**, **description**, **dates**, and **location** 🗺️. We've integrated **Google Maps API** to help you select the perfect spot for your event!
 
