@@ -13,7 +13,7 @@ We built **Join Me** with our own experiences in mind: tackling the everyday cha
 ## 🧑‍🎓 **What Can You Do with Join Me?**
 
 ### 1. **Create Events 📅**
-![Create Event](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2Fcrearevento.png?alt=media&token=04c3fa84-9432-4c02-8456-163e78dbf032)
+![Create Event](inicio.png)
 
 With **Join Me**, you can create any type of event with just a few clicks! Choose the **name**, **description**, **dates**, and **location** 🗺️. We've integrated **Google Maps API** to help you select the perfect spot for your event!
 
