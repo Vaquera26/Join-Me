@@ -5,7 +5,7 @@
 
 We built **Join Me** with our own experiences in mind: tackling the everyday challenges of organizing events. The best part? It works on both **Android** and **iOS** thanks to **Expo** 📱💻.
 
-![Join Me](https://raw.githubusercontent.com/Vaquera26/Join-Me/48ec47aadd35931487cd45b6d3d3c718e594339c/JoinMe%20Logo.svg)
+![Join Me](https://github.com/Vaquera26/Join-Me/blob/main/bilboard.jpeg?raw=true)
 
 
 ---
